@@ -1,0 +1,18 @@
+# Secrets and local settings
+.env*
+.dev.vars
+*clave*.txt
+*.keystore
+*.jks
+local.properties
+# Build and editor output
+.DS_Store
+node_modules/
+.wrangler/
+.gradle/
+.kotlin/
+**/build/
+DerivedData/
+xcuserdata/
+*.xcuserstate
+*.apk

@@ -1,0 +1,16 @@
+{
+  "name": "sono-private-music",
+  "main": "src/worker.js",
+  "compatibility_date": "2026-09-08",
+  "workers_dev": true,
+  "r2_buckets": [
+    {
+      "binding": "MUSIC",
+      "bucket_name": "musifly"
+    }
+  ],
+  "observability": {
+    "enabled": false
+  },
+  "account_id": "31efef87e54a689802d9769d3749a888"
+}
